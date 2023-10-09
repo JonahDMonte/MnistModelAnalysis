@@ -1,0 +1,148 @@
+[
+    {
+        "argparse": 1.1362991333007812,
+        "dataloading": 0.18804073333740234,
+        "modelling": 153.97309136390686,
+        "total": 155.29743123054504,
+        "teststats": [
+            {
+                "testloss": 0.13316639633178712,
+                "accuracy": 96.15
+            },
+            {
+                "testloss": 0.0903575424194336,
+                "accuracy": 97.22
+            },
+            {
+                "testloss": 0.08401947326660156,
+                "accuracy": 97.56
+            },
+            {
+                "testloss": 0.07283144760131836,
+                "accuracy": 97.95
+            },
+            {
+                "testloss": 0.07088240013122558,
+                "accuracy": 98.04
+            },
+            {
+                "testloss": 0.07161538276672363,
+                "accuracy": 97.88
+            },
+            {
+                "testloss": 0.0699993995666504,
+                "accuracy": 97.98
+            },
+            {
+                "testloss": 0.07050477333068848,
+                "accuracy": 97.94
+            },
+            {
+                "testloss": 0.07154135971069336,
+                "accuracy": 98.03
+            },
+            {
+                "testloss": 0.07038502120971679,
+                "accuracy": 98.0
+            }
+        ]
+    },
+    {
+        "argparse": 0.0,
+        "dataloading": 0.08000969886779785,
+        "modelling": 142.84775567054749,
+        "total": 142.92776536941528,
+        "teststats": [
+            {
+                "testloss": 0.13182985916137696,
+                "accuracy": 96.05
+            },
+            {
+                "testloss": 0.08165279197692871,
+                "accuracy": 97.56
+            },
+            {
+                "testloss": 0.08152526969909668,
+                "accuracy": 97.75
+            },
+            {
+                "testloss": 0.06989001197814941,
+                "accuracy": 98.14
+            },
+            {
+                "testloss": 0.06850387306213379,
+                "accuracy": 98.3
+            },
+            {
+                "testloss": 0.06973746528625488,
+                "accuracy": 98.3
+            },
+            {
+                "testloss": 0.07400614509582519,
+                "accuracy": 98.29
+            },
+            {
+                "testloss": 0.07276556663513184,
+                "accuracy": 98.28
+            },
+            {
+                "testloss": 0.0736019515991211,
+                "accuracy": 98.32
+            },
+            {
+                "testloss": 0.07492210044860839,
+                "accuracy": 98.33
+            }
+        ]
+    },
+    "Net 3 error. \nsuper(type, obj): obj must be an instance or subtype of type",
+    "Net 4 error. \nsuper(type, obj): obj must be an instance or subtype of type",
+    {
+        "argparse": 0.0,
+        "dataloading": 0.044011831283569336,
+        "modelling": 149.44054770469666,
+        "total": 149.48455953598022,
+        "teststats": [
+            {
+                "testloss": 0.049310906982421875,
+                "accuracy": 98.31
+            },
+            {
+                "testloss": 0.031364016246795655,
+                "accuracy": 98.86
+            },
+            {
+                "testloss": 0.03216648540496826,
+                "accuracy": 98.95
+            },
+            {
+                "testloss": 0.028408421516418456,
+                "accuracy": 99.0
+            },
+            {
+                "testloss": 0.027679962635040283,
+                "accuracy": 99.09
+            },
+            {
+                "testloss": 0.028276473903656008,
+                "accuracy": 99.11
+            },
+            {
+                "testloss": 0.027405520915985106,
+                "accuracy": 99.15
+            },
+            {
+                "testloss": 0.026987420845031737,
+                "accuracy": 99.07
+            },
+            {
+                "testloss": 0.027013071632385255,
+                "accuracy": 99.1
+            },
+            {
+                "testloss": 0.02639357876777649,
+                "accuracy": 99.14
+            }
+        ]
+    }
+]
